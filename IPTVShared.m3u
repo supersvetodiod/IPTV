@@ -1001,7 +1001,7 @@ http://iptv46.mcx-ix.ru:8077/DiscoveryChannelHD/index.m3u8
 http://46.8.46.14/DiscoveryScience/index.m3u8
 
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Investigation Discovery Европа
-http://46.8.46.14/InvestigationDiscovery/index.m3u8
+https://tv.tvcdnpotok.com/4R6f7k7VJn_nZgRX0DLbwg/570/1764343596/index.m3u8
 
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Xtra Европа
 http://94.232.127.28:8080/idxtra/index.m3u8
